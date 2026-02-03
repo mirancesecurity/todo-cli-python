@@ -6,6 +6,11 @@
 - Python 3.8+
 
 ## Установка
+#git clone https://github.com/mirancesecurity/todo-cli-python.git
+
+#cd todo-cli-python
+
+#python main.py list
 
 ### Добавить задачу
 ```bash
