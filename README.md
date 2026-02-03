@@ -5,7 +5,10 @@
 ## Требования
 - Python 3.8+
 
-## Запуск
+## Установка
+git clone https://github.com/ТВОЙ_НИК/todo-cli-python.git
+cd todo-cli-python
+python main.py list
 
 ### Добавить задачу
 ```bash
